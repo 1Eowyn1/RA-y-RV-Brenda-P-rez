@@ -11,7 +11,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -25,7 +25,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -62,7 +62,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -100,7 +100,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -108,7 +108,7 @@
           {
             "name": "FlareLayer",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -122,7 +122,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -148,7 +148,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -156,7 +156,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -169,16 +169,14 @@
           },
           {
             "name": "LightingSettings",
-            "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -192,7 +190,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -200,7 +198,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -208,7 +206,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -216,7 +214,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -224,7 +222,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -238,7 +236,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -246,7 +244,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -277,9 +275,7 @@
           },
           {
             "name": "RectTransform",
-            "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -292,7 +288,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -324,7 +320,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -362,7 +358,7 @@
           {
             "name": "Texture",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -370,7 +366,7 @@
           {
             "name": "Texture2D",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -395,8 +391,10 @@
           },
           {
             "name": "Transform",
-            "scenes": [],
-            "dependencyType": 1,
+            "scenes": [
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+            ],
+            "dependencyType": 0,
             "icon": null
           },
           {
@@ -504,17 +502,7 @@
         "dependencies": [
           {
             "name": "Collider",
-            "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
-            ],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
-            "name": "MeshCollider",
-            "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
@@ -526,14 +514,8 @@
           },
           {
             "name": "Rigidbody",
-            "scenes": [],
-            "dependencyType": 0,
-            "icon": null
-          },
-          {
-            "name": "SphereCollider",
             "scenes": [
-              "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scenes/HelloCardboard.unity"
+              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
             ],
             "dependencyType": 0,
             "icon": null

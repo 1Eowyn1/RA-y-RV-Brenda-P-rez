@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
-      jars="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\27c75bbec9f10a7f9e517c71e5837b03\transformed\out\jars\classes.jar;C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\27c75bbec9f10a7f9e517c71e5837b03\transformed\out\jars\libs\unity-classes.jar"
+      name="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6f1bdaa3ca1c4541e1094b32bc67f3d8\transformed\out\jars\classes.jar;C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6f1bdaa3ca1c4541e1094b32bc67f3d8\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
-      folder="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\27c75bbec9f10a7f9e517c71e5837b03\transformed\out"
+      folder="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\6f1bdaa3ca1c4541e1094b32bc67f3d8\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -13,9 +13,9 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="__local_aars__:C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
-      jars="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
-      resolved="__local_aars__:C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+      name="__local_aars__:C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
   <library
       name="com.google.android.material:material:1.6.1@aar"
       jars="C:\Users\Usuario\.gradle\caches\transforms-3\b44f48e07fa8182b188d3e9c08c58be0\transformed\material-1.6.1\jars\classes.jar"
@@ -86,10 +86,10 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
-      jars="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\8b79dc6b447f917a592a470ea4e9aa2e\transformed\out\jars\classes.jar"
+      name="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\96f34561e334da3a29c7d55289891a06\transformed\out\jars\classes.jar"
       resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
-      folder="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\8b79dc6b447f917a592a470ea4e9aa2e\transformed\out"
+      folder="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\96f34561e334da3a29c7d55289891a06\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"

@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="C:\Users\Usuario\Documents\RA y RV\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
+    dir="C:\Users\Usuario\Documents\GitHub\RA-y-RV-Brenda-P-rez\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:"

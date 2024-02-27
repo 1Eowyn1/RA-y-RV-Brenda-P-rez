@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Usuario\\Documents\\RA y RV\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Usuario\\Documents\\GitHub\\RA-y-RV-Brenda-P-rez\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-3\\86df5c814b5f9eca8e36b9cbe56610e1\\transformed\\jetified-savedstate-1.1.0\\res\\values\\values.xml",
@@ -37,23 +37,6 @@
                         "endLines": "71,7986,9450,9539",
                         "endColumns": "60,12,24,24",
                         "endOffsets": "3757,542571,633400,638611"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Usuario\\Documents\\RA y RV\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "2,2",
-                        "startOffsets": "55,114",
-                        "endColumns": "57,65",
-                        "endOffsets": "110,177"
-                    },
-                    "to": {
-                        "startLines": "1528,1563",
-                        "startColumns": "4,4",
-                        "startOffsets": "94900,99137",
-                        "endColumns": "59,67",
-                        "endOffsets": "94955,99200"
                     }
                 },
                 {
@@ -260,25 +243,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Usuario\\Documents\\RA y RV\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,14",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,123,169,226,282,331,377,424,524,662",
-                        "endLines": "2,3,4,5,6,7,8,10,13,17",
-                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
-                        "endOffsets": "118,164,221,277,326,372,419,519,657,884"
-                    },
-                    "to": {
-                        "startLines": "732,1430,1495,1496,1497,1498,1499,4706,6202,6205",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "42249,88724,92696,92753,92809,92858,92904,323906,427306,427444",
-                        "endLines": "732,1430,1495,1496,1497,1498,1499,4707,6204,6208",
-                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
-                        "endOffsets": "42312,88765,92748,92804,92853,92899,92946,324001,427439,427666"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-3\\21b52207a6518d44b5d53bf208d72f33\\transformed\\recyclerview-1.1.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
@@ -348,6 +312,42 @@
                         "endLines": "504,505,506,507,508,509,510,511,1539,1540,1541,1542,1543,1544,1545,1546,1548,1549,1550,1551,1552,1553,1554,1555,1556,9902,10740",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "25974,26054,26144,26234,26314,26395,26475,26555,96227,96408,96533,96640,96820,96943,97059,97162,97517,97622,97803,97928,98103,98251,98314,98376,98455,664246,708942"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\Documents\\GitHub\\RA-y-RV-Brenda-P-rez\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,123,169,226,282,331,377,424,524,662",
+                        "endLines": "2,3,4,5,6,7,8,10,13,17",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "118,164,221,277,326,372,419,519,657,884"
+                    },
+                    "to": {
+                        "startLines": "732,1430,1495,1496,1497,1498,1499,4706,6202,6205",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "42249,88724,92696,92753,92809,92858,92904,323906,427306,427444",
+                        "endLines": "732,1430,1495,1496,1497,1498,1499,4707,6204,6208",
+                        "endColumns": "67,45,56,55,48,45,46,8,8,8",
+                        "endOffsets": "42312,88765,92748,92804,92853,92899,92946,324001,427439,427666"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Usuario\\Documents\\GitHub\\RA-y-RV-Brenda-P-rez\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "55,114",
+                        "endColumns": "57,65",
+                        "endOffsets": "110,177"
+                    },
+                    "to": {
+                        "startLines": "1528,1563",
+                        "startColumns": "4,4",
+                        "startOffsets": "94900,99137",
+                        "endColumns": "59,67",
+                        "endOffsets": "94955,99200"
                     }
                 },
                 {

@@ -367,6 +367,7 @@
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/CardboardStartup.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/ObjectController.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/VrModeController.cs"
+"Assets/Scenes/Práctica 02/Scripts/Carrusel.cs"
 -langversion:9.0
 
 /deterministic

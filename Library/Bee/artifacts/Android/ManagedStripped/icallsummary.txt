@@ -220,6 +220,7 @@ UnityEngine.Experimental.Rendering.ScriptableRuntimeReflectionSystemSettings::Sc
 UnityEngine.GameObject::Internal_CreateGameObject
 UnityEngine.GameObject::SendMessage
 UnityEngine.GameObject::SetActive
+UnityEngine.GameObject::get_transform
 UnityEngine.Gradient::Internal_Equals
 UnityEngine.Gradient::Init
 UnityEngine.Gradient::Cleanup
@@ -295,6 +296,8 @@ UnityEngine.PlayerConnectionInternal::RegisterInternal
 UnityEngine.PlayerConnectionInternal::SendMessage
 UnityEngine.PlayerConnectionInternal::UnregisterInternal
 UnityEngine.QualitySettings::get_activeColorSpace
+UnityEngine.Quaternion::Internal_FromEulerRad_Injected
+UnityEngine.Quaternion::Inverse_Injected
 UnityEngine.Random::RandomRangeInt
 UnityEngine.Random::Range
 UnityEngine.Renderer::SetMaterial
@@ -336,15 +339,19 @@ UnityEngine.Texture::GetNativeTexturePtr
 UnityEngine.Texture2D::get_whiteTexture
 UnityEngine.Texture2DArray::Internal_CreateImpl
 UnityEngine.Texture3D::Internal_CreateImpl
+UnityEngine.Time::get_deltaTime
 UnityEngine.Time::get_time
 UnityEngine.Transform::GetSiblingIndex
 UnityEngine.Transform::get_childCount
+UnityEngine.Transform::TransformDirection_Injected
 UnityEngine.Transform::get_localPosition_Injected
 UnityEngine.Transform::get_localRotation_Injected
 UnityEngine.Transform::get_position_Injected
 UnityEngine.Transform::get_rotation_Injected
 UnityEngine.Transform::set_localPosition_Injected
 UnityEngine.Transform::set_localRotation_Injected
+UnityEngine.Transform::set_position_Injected
+UnityEngine.Transform::set_rotation_Injected
 UnityEngine.Transform::GetChild
 UnityEngine.Transform::GetParent
 UnityEngine.U2D.SpriteAtlasManager::Register
