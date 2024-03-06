@@ -1,8 +1,8 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - CambioEscenario
     - CameraPointer
-    - Carrusel
     Google.XR.Cardboard.dll:
     - Google.XR.Cardboard.XRLoader
     Unity.Rider.Editor.dll:
@@ -21,7 +21,7 @@ ScriptsOnlyBuild:
   serializedClasses: {}
   methodsToPreserve: []
   sceneClasses:
-    "Assets/Scenes/Pr\xE1ctica 02/Pr\xE1ctica2.unity":
+    "Assets/Scenes/Pr\xE1ctica 03/Pr\xE1ctica3.unity":
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -40,20 +40,20 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 54
-      Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16608}
+      Script: {instanceID: 16590}
     - Class: 114
-      Script: {instanceID: 22154}
+      Script: {instanceID: 21980}
     - Class: 114
-      Script: {instanceID: 26492}
+      Script: {instanceID: 22124}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -497,6 +497,12 @@ ScriptsOnlyBuild:
     className: UnityOnPointerClickMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 9048f7007d2846bf5fc3a3b64c44bf31
+    assemblyName: Google.XR.Cardboard
+    namespaceName: Google.XR.Cardboard
+    className: XRSettings
+  - hash:
+      serializedVersion: 2
       Hash: 0b63f6d3335e11939ce8790b904c8691
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
@@ -623,6 +629,12 @@ ScriptsOnlyBuild:
     className: PanelEventHandler
   - hash:
       serializedVersion: 2
+      Hash: 409694dc0e6c96fe79f52b8ae49529cc
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Carrusel
+  - hash:
+      serializedVersion: 2
       Hash: 9dd54ce33440072d6692a67e0c384ad1
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
@@ -651,6 +663,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 96436c10e6af7b4a5dae1c99ea82aea9
+    assemblyName: Google.XR.Cardboard
+    namespaceName: Google.XR.Cardboard
+    className: XRLoader
   - hash:
       serializedVersion: 2
       Hash: ef38c1407dba8c1f5d69f5db61a694fe
@@ -845,6 +863,12 @@ ScriptsOnlyBuild:
     className: SignalTrack
   - hash:
       serializedVersion: 2
+      Hash: bf5de7bb93578cf11f0482b98d109be9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CambioEscenario
+  - hash:
+      serializedVersion: 2
       Hash: 67272c9c30c50b68ef1ce72ac0191c57
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -951,26 +975,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 96436c10e6af7b4a5dae1c99ea82aea9
-    assemblyName: Google.XR.Cardboard
-    namespaceName: Google.XR.Cardboard
-    className: XRLoader
-  - hash:
-      serializedVersion: 2
-      Hash: 9048f7007d2846bf5fc3a3b64c44bf31
-    assemblyName: Google.XR.Cardboard
-    namespaceName: Google.XR.Cardboard
-    className: XRSettings
-  - hash:
-      serializedVersion: 2
-      Hash: 409694dc0e6c96fe79f52b8ae49529cc
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Carrusel
   platform: 13
   scenePathNames:
-  - "Assets/Scenes/Pr\xE1ctica 02/Pr\xE1ctica2.unity"
+  - "Assets/Scenes/Pr\xE1ctica 03/Pr\xE1ctica3.unity"
   playerPath: "C:/Users/Usuario/Desktop/10mo Semestre/RV y RA/Pr\xE1cticas/Pr\xE1ctica
-    02/P2.apk"
+    03/Pr\xE1ctica3_Brenda_P\xE9rez.apk"

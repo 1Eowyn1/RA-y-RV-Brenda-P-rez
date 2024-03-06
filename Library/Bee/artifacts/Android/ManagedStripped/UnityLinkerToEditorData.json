@@ -11,7 +11,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -25,7 +25,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -62,7 +62,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -81,7 +81,9 @@
           },
           {
             "name": "Cubemap",
-            "scenes": [],
+            "scenes": [
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
@@ -100,7 +102,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -108,7 +110,7 @@
           {
             "name": "FlareLayer",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -122,7 +124,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -148,7 +150,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -156,7 +158,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -176,7 +178,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -190,7 +192,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -198,7 +200,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -206,7 +208,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -214,7 +216,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -222,7 +224,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -236,7 +238,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -244,7 +246,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -288,7 +290,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -320,7 +322,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -357,18 +359,14 @@
           },
           {
             "name": "Texture",
-            "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
-            ],
-            "dependencyType": 0,
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
             "name": "Texture2D",
-            "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
-            ],
-            "dependencyType": 0,
+            "scenes": [],
+            "dependencyType": 1,
             "icon": null
           },
           {
@@ -392,7 +390,7 @@
           {
             "name": "Transform",
             "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
+              "Assets/Scenes/Pr\u00E1ctica 03/Pr\u00E1ctica3.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -514,9 +512,7 @@
           },
           {
             "name": "Rigidbody",
-            "scenes": [
-              "Assets/Scenes/Pr\u00E1ctica 02/Pr\u00E1ctica2.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },

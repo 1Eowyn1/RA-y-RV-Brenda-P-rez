@@ -41,9 +41,11 @@ extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_Reset_mD99AEFDB38C
 extern void U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F (void);
 extern void Carrusel_Update_m4F3284152BA1A5E982A214B0D9D27591AE514197 (void);
 extern void Carrusel__ctor_mF708BC7DE67C5E92388CB4A1BCAE892CBA7ECCBF (void);
+extern void CambioEscenario_Update_mEFFAA6165FE937C1305C83D73615098E210FA206 (void);
+extern void CambioEscenario__ctor_m80A3695A6D981409DEC10E1E616EADEC4168522C (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[31] = 
+static Il2CppMethodPointer s_methodPointers[33] = 
 {
 	CameraPointer_Update_mF19D284A593E4627CD4F22A58C11FB87B6627FF4,
 	CameraPointer__ctor_m5C4B443EB7C8A518306BF27BD947D938FDF5162D,
@@ -74,10 +76,12 @@ static Il2CppMethodPointer s_methodPointers[31] =
 	U3CStartXRU3Ed__10_System_Collections_IEnumerator_get_Current_mD84D9ACDB0A04C619509BA51590975DB84C30B0F,
 	Carrusel_Update_m4F3284152BA1A5E982A214B0D9D27591AE514197,
 	Carrusel__ctor_mF708BC7DE67C5E92388CB4A1BCAE892CBA7ECCBF,
+	CambioEscenario_Update_mEFFAA6165FE937C1305C83D73615098E210FA206,
+	CambioEscenario__ctor_m80A3695A6D981409DEC10E1E616EADEC4168522C,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[31] = 
+static const int32_t s_InvokerIndices[33] = 
 {
 	1209,
 	1209,
@@ -108,6 +112,8 @@ static const int32_t s_InvokerIndices[31] =
 	1180,
 	1209,
 	1209,
+	1209,
+	1209,
 	2392,
 	1209,
 };
@@ -115,7 +121,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	31,
+	33,
 	s_methodPointers,
 	0,
 	NULL,
