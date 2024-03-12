@@ -311,12 +311,16 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.20f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/CardboardUnityAdventure/Scripts/CardboardSimulator.cs"
+"Assets/CardboardUnityAdventure/Scripts/GazeManager.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/CameraPointer.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/CardboardStartup.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/ObjectController.cs"
 "Assets/Samples/Google Cardboard XR Plugin for Unity/1.17.0/Hello Cardboard/Scripts/VrModeController.cs"
 "Assets/Scenes/Práctica 02/Scripts/Carrusel.cs"
 "Assets/Scenes/Práctica 03/Scripts/CambioEscenario.cs"
+"Assets/Scenes/Práctica 04/Scripts/Cambiar de Escena.cs"
+"Assets/Scenes/Práctica 04/Scripts/CameraPointerManager.cs"
 -langversion:9.0
 
 /deterministic

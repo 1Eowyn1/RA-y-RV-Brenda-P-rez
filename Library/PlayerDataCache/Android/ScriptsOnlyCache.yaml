@@ -1,12 +1,28 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - CambiardeEscena
     - CambioEscenario
     - CameraPointer
+    - CameraPointerManager
+    - CardboardSimulator
+    - Carrusel
+    - GazeManager
     Google.XR.Cardboard.dll:
     - Google.XR.Cardboard.XRLoader
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
     Unity.XR.Management.dll:
@@ -18,10 +34,72 @@ ScriptsOnlyBuild:
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
-  serializedClasses: {}
-  methodsToPreserve: []
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
+  serializedClasses:
+    Unity.TextMeshPro:
+    - TMPro.FaceInfo_Legacy
+    - TMPro.FontAssetCreationSettings
+    - TMPro.KerningTable
+    - TMPro.TMP_Character
+    - TMPro.TMP_FontFeatureTable
+    - TMPro.TMP_FontWeightPair
+    - TMPro.TMP_GlyphAdjustmentRecord
+    - TMPro.TMP_GlyphPairAdjustmentRecord
+    - TMPro.TMP_GlyphValueRecord
+    - TMPro.TMP_Sprite
+    - TMPro.TMP_SpriteCharacter
+    - TMPro.TMP_SpriteGlyph
+    - TMPro.TMP_Style
+    - TMPro.VertexGradient
+    UnityEngine.CoreModule:
+    - UnityEngine.Events.ArgumentCache
+    - UnityEngine.Events.PersistentCallGroup
+    - UnityEngine.Events.PersistentListenerMode
+    UnityEngine.TextCoreFontEngineModule:
+    - UnityEngine.TextCore.FaceInfo
+    - UnityEngine.TextCore.Glyph
+    - UnityEngine.TextCore.GlyphMetrics
+    - UnityEngine.TextCore.GlyphRect
+    UnityEngine.UI:
+    - UnityEngine.UI.AnimationTriggers
+    - UnityEngine.UI.Button/ButtonClickedEvent
+    - UnityEngine.UI.ColorBlock
+    - UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+    - UnityEngine.UI.Navigation
+    - UnityEngine.UI.SpriteState
+  methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
+  - assembly: UnityEngine.VideoModule
+    fullTypeName: UnityEngine.Video.VideoPlayer
+    methodName: Play
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
+  - assembly: UnityEngine.VideoModule
+    fullTypeName: UnityEngine.Video.VideoPlayer
+    methodName: Pause
+  - assembly: Assembly-CSharp
+    fullTypeName: CambiardeEscena
+    methodName: CambiarEscena
   sceneClasses:
-    "Assets/Scenes/Pr\xE1ctica 03/Pr\xE1ctica3.unity":
+    "Assets/Scenes/Pr\xE1ctica 04/Escena1.unity":
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -40,6 +118,95 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16634}
+    - Class: 114
+      Script: {instanceID: 16636}
+    - Class: 114
+      Script: {instanceID: 16678}
+    - Class: 114
+      Script: {instanceID: 16970}
+    - Class: 114
+      Script: {instanceID: 17278}
+    - Class: 114
+      Script: {instanceID: 17702}
+    - Class: 114
+      Script: {instanceID: 17918}
+    - Class: 114
+      Script: {instanceID: 18214}
+    - Class: 114
+      Script: {instanceID: 19080}
+    - Class: 114
+      Script: {instanceID: 19224}
+    - Class: 114
+      Script: {instanceID: 19482}
+    - Class: 114
+      Script: {instanceID: 20204}
+    - Class: 114
+      Script: {instanceID: 20374}
+    - Class: 114
+      Script: {instanceID: 20458}
+    - Class: 114
+      Script: {instanceID: 20908}
+    - Class: 114
+      Script: {instanceID: 21232}
+    - Class: 114
+      Script: {instanceID: 21758}
+    - Class: 114
+      Script: {instanceID: 22240}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    "Assets/Scenes/Pr\xE1ctica 04/Escena2.unity":
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -49,18 +216,135 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16590}
+      Script: {instanceID: 16634}
     - Class: 114
-      Script: {instanceID: 21980}
+      Script: {instanceID: 16636}
     - Class: 114
-      Script: {instanceID: 22124}
+      Script: {instanceID: 16678}
+    - Class: 114
+      Script: {instanceID: 16970}
+    - Class: 114
+      Script: {instanceID: 17702}
+    - Class: 114
+      Script: {instanceID: 17918}
+    - Class: 114
+      Script: {instanceID: 18214}
+    - Class: 114
+      Script: {instanceID: 19080}
+    - Class: 114
+      Script: {instanceID: 20204}
+    - Class: 114
+      Script: {instanceID: 20458}
+    - Class: 114
+      Script: {instanceID: 20908}
+    - Class: 114
+      Script: {instanceID: 21232}
+    - Class: 114
+      Script: {instanceID: 21758}
+    - Class: 114
+      Script: {instanceID: 22094}
+    - Class: 114
+      Script: {instanceID: 22240}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
       Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+    "Assets/Scenes/Pr\xE1ctica 04/Pr\xE1ctica4.unity":
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 16634}
+    - Class: 114
+      Script: {instanceID: 16636}
+    - Class: 114
+      Script: {instanceID: 16678}
+    - Class: 114
+      Script: {instanceID: 16970}
+    - Class: 114
+      Script: {instanceID: 17702}
+    - Class: 114
+      Script: {instanceID: 17918}
+    - Class: 114
+      Script: {instanceID: 18214}
+    - Class: 114
+      Script: {instanceID: 19080}
+    - Class: 114
+      Script: {instanceID: 20204}
+    - Class: 114
+      Script: {instanceID: 20458}
+    - Class: 114
+      Script: {instanceID: 20908}
+    - Class: 114
+      Script: {instanceID: 21232}
+    - Class: 114
+      Script: {instanceID: 21758}
+    - Class: 114
+      Script: {instanceID: 22240}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 124
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
+      Script: {instanceID: 0}
+    - Class: 850595691
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -69,6 +353,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.SpatialTracking
     namespaceName: UnityEngine.SpatialTracking
     className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: 540882762544409cc4530e60db00e951
+    assemblyName: UnityEngine.UI
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
   - hash:
       serializedVersion: 2
       Hash: 55060a7bf226ac385ce19ebd450f199f
@@ -129,6 +419,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnMouseExitMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 5c3eec4e409876707006ee5948ac95b1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CameraPointerManager
   - hash:
       serializedVersion: 2
       Hash: b12640dfdb5966813e9dd838893e6c4a
@@ -413,6 +709,12 @@ ScriptsOnlyBuild:
     className: Mask
   - hash:
       serializedVersion: 2
+      Hash: bb7b59c09824b28f19b6c718870d8f6a
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: GazeManager
+  - hash:
+      serializedVersion: 2
       Hash: 4718916586b3818eb69bf65df61f0f3a
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -647,6 +949,12 @@ ScriptsOnlyBuild:
     className: UnityOnDeselectMessageListener
   - hash:
       serializedVersion: 2
+      Hash: da59c418edb6c435908903fbceeaf59e
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CambiardeEscena
+  - hash:
+      serializedVersion: 2
       Hash: b5007673bbbdb9d12597a1d8201370f5
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
@@ -657,12 +965,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.State
     namespaceName: Unity.VisualScripting
     className: StateGraphAsset
-  - hash:
-      serializedVersion: 2
-      Hash: 540882762544409cc4530e60db00e951
-    assemblyName: UnityEngine.UI
-    namespaceName: UnityEngine.UI
-    className: CanvasScaler
   - hash:
       serializedVersion: 2
       Hash: 96436c10e6af7b4a5dae1c99ea82aea9
@@ -789,6 +1091,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnTriggerEnter2DMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: d7cc5d99ff979e19ec5747169faae3ab
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CardboardSimulator
   - hash:
       serializedVersion: 2
       Hash: 7bb32d6e4c7614a97d9723ce7e26588c
@@ -977,6 +1285,8 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 13
   scenePathNames:
-  - "Assets/Scenes/Pr\xE1ctica 03/Pr\xE1ctica3.unity"
+  - "Assets/Scenes/Pr\xE1ctica 04/Escena1.unity"
+  - "Assets/Scenes/Pr\xE1ctica 04/Escena2.unity"
+  - "Assets/Scenes/Pr\xE1ctica 04/Pr\xE1ctica4.unity"
   playerPath: "C:/Users/Usuario/Desktop/10mo Semestre/RV y RA/Pr\xE1cticas/Pr\xE1ctica
-    03/Pr\xE1ctica3_Brenda_P\xE9rez.apk"
+    04/Pr\xE1ctica4_Brenda_P\xE9rez.apk"
